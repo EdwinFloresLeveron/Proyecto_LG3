@@ -1,0 +1,36 @@
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\bin\Debug\PROYECTO LG3.exe.config
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\bin\Debug\PROYECTO LG3.exe
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\bin\Debug\PROYECTO LG3.pdb
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO_LG3.LOGIN.resources
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO_LG3.Properties.Resources.resources
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.exe
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.pdb
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO_LG3.FormularioPrincipal.resources
+C:\Users\user\source\repos\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO_LG3.FormGrado1.resources
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\bin\Debug\PROYECTO LG3.exe.config
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\bin\Debug\PROYECTO LG3.exe
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\bin\Debug\PROYECTO LG3.pdb
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO_LG3.FormGrado1.resources
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO_LG3.FormularioPrincipal.resources
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO_LG3.LOGIN.resources
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO_LG3.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.exe
+C:\Users\USUARIO\Desktop\PROGRAMA NOTAS ESCUELA\PROYECTO LG3\obj\Debug\PROYECTO LG3.pdb
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\bin\Debug\PROYECTO LG3.exe.config
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\bin\Debug\PROYECTO LG3.exe
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\bin\Debug\PROYECTO LG3.pdb
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO LG3.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO_LG3.FormGrado1.resources
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO_LG3.FormularioPrincipal.resources
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO_LG3.LOGIN.resources
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO_LG3.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO LG3.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO LG3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO LG3.exe
+C:\Users\USUARIO\Desktop\Proyecto_notas_escuela\PROYECTO LG3\obj\Debug\PROYECTO LG3.pdb
